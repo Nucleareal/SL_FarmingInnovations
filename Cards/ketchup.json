@@ -1,0 +1,10 @@
+{
+  "id": "stella_farming_ketchup",
+  "nameTerm": "stella_farming_ketchup_name",
+  "descriptionTerm": "stella_farming_ketchup_description",
+  "icon": "ketchup.png",
+  "value": 2,
+  "type": "Food",
+  "script": "Food",
+  "_FoodValue": 1
+}

@@ -1,0 +1,165 @@
+{
+  "id": "stella_farming_blueprint_large_green_house_glowth",
+  "nameTerm": "stella_farming_large_green_house_glowth_name",
+  "group": "Building",
+  "hideFromCardopedia": true,
+  "hideFromIdeasTab": true,
+  "_CanSpoil": false,
+  "subprints": [
+    {
+      "RequiredCards": "stella_farming_large_green_house, berry",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "berrybush, berrybush, berrybush",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_large_green_house_glowth_status"
+    },
+	{
+      "RequiredCards": "stella_farming_large_green_house, apple",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "apple_tree, apple_tree, apple_tree",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_large_green_house_glowth_status"
+    },
+	{
+      "RequiredCards": "stella_farming_large_green_house, carrot",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "carrot, carrot, carrot",
+      "Time": 90,
+      "StatusTerm": "stella_farming_idea_large_green_house_glowth_status"
+    },
+	{
+      "RequiredCards": "stella_farming_large_green_house, onion",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "onion, onion, onion",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_large_green_house_glowth_status"
+    },
+	{
+      "RequiredCards": "stella_farming_large_green_house, potato",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "potato, potato, potato",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_large_green_house_glowth_status"
+    },
+	{
+      "RequiredCards": "stella_farming_large_green_house, mushroom",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "mushroom, mushroom, mushroom",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_large_green_house_glowth_status"
+    },
+	{
+      "RequiredCards": "stella_farming_large_green_house, banana",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "banana_tree, banana_tree, banana_tree",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_large_green_house_glowth_status"
+    },
+	{
+      "RequiredCards": "stella_farming_large_green_house, cotton",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "cotton_plant, cotton_plant, cotton_plant",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_large_green_house_glowth_status"
+    },
+	{
+      "RequiredCards": "stella_farming_large_green_house, lime",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "lime, lime, lime",
+      "Time": 90,
+      "StatusTerm": "stella_farming_idea_large_green_house_glowth_status"
+    },
+	{
+      "RequiredCards": "stella_farming_large_green_house, chili_pepper",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "chili_pepper, chili_pepper, chili_pepper",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_large_green_house_glowth_status"
+    },
+	{
+      "RequiredCards": "stella_farming_large_green_house, seaweed",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "seaweed, seaweed, seaweed",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_large_green_house_glowth_status"
+    },
+	{
+      "RequiredCards": "stella_farming_large_green_house, sugar",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "sugar_cane, sugar_cane, sugar_cane",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_large_green_house_glowth_status"
+    },
+	{
+      "RequiredCards": "stella_farming_large_green_house, wheat",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "wheat, wheat, wheat",
+	  "ResultAction": "special:grow_wheat",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_large_green_house_glowth_status"
+    },
+	{
+      "RequiredCards": "stella_farming_large_green_house, grape",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "grape_vine, grape_vine, grape_vine",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_large_green_house_glowth_status"
+    },
+	{
+      "RequiredCards": "stella_farming_large_green_house, olive",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "olive_tree, olive_tree, olive_tree",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_large_green_house_glowth_status"
+    },
+	{
+      "RequiredCards": "stella_farming_large_green_house, tomato",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "tomato_plant, tomato_plant, tomato_plant",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_large_green_house_glowth_status"
+    },
+	{
+      "RequiredCards": "stella_farming_large_green_house, herbs",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "herbs, herbs, herbs",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_large_green_house_glowth_status"
+    },
+	{
+      "RequiredCards": "stella_farming_large_green_house, stella_farming_rice",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "stella_farming_rice, stella_farming_rice, stella_farming_rice",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_large_green_house_glowth_status"
+    },
+	{
+      "RequiredCards": "stella_farming_large_green_house, stella_farming_barley",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "stella_farming_barley, stella_farming_barley, stella_farming_barley",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_large_green_house_glowth_status"
+    },
+	{
+	  "RequiredCards": "stella_farming_large_green_house, stella_farming_lettuce",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "stella_farming_lettuce, stella_farming_lettuce, stella_farming_lettuce",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_large_green_house_glowth_status"
+	},
+	{
+	  "RequiredCards": "stella_farming_large_green_house, stella_farming_raw_mustard",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "stella_farming_raw_mustard, stella_farming_raw_mustard, stella_farming_raw_mustard",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_large_green_house_glowth_status"
+	},
+	{
+	  "RequiredCards": "stella_farming_large_green_house, stella_farming_soy",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "stella_farming_soy, stella_farming_soy, stella_farming_soy",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_large_green_house_glowth_status"
+	}
+  ]
+}

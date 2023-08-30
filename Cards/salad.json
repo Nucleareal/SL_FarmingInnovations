@@ -1,0 +1,10 @@
+{
+  "id": "stella_farming_salad",
+  "nameTerm": "stella_farming_salad_name",
+  "descriptionTerm": "stella_farming_salad_description",
+  "icon": "salad.png",
+  "value": 4,
+  "type": "Food",
+  "script": "Food",
+  "_FoodValue": 5
+}

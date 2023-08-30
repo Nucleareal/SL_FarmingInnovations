@@ -1,0 +1,10 @@
+{
+  "id": "stella_farming_string_cheese",
+  "nameTerm": "stella_farming_string_cheese_name",
+  "descriptionTerm": "stella_farming_string_cheese_description",
+  "icon": "string_cheese.png",
+  "value": 2,
+  "type": "Food",
+  "script": "Food",
+  "_FoodValue": 1
+}

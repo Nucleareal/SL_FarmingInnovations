@@ -1,0 +1,10 @@
+{
+  "id": "stella_farming_farm_decompiler",
+  "nameTerm": "stella_farming_farm_decompiler_name",
+  "descriptionTerm": "stella_farming_farm_decompiler_description",
+  "icon": "farm_decompiler.png",
+  "value": 1,
+  "type": "Structures",
+  "_IsBuilding": true,
+  "script": "Stella_FarmingNS.FarmDecompiler"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "stella_farming_roasted_meat_with_pepper",
+  "nameTerm": "stella_farming_roasted_meat_with_pepper_name",
+  "descriptionTerm": "stella_farming_roasted_meat_with_pepper_description",
+  "icon": "roasted_meat_with_pepper.png",
+  "value": 4,
+  "type": "Food",
+  "script": "Food",
+  "_FoodValue": 10
+}

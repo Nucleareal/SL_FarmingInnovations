@@ -1,0 +1,10 @@
+{
+  "id": "stella_farming_wasabi",
+  "nameTerm": "stella_farming_wasabi_name",
+  "descriptionTerm": "stella_farming_wasabi_description",
+  "icon": "wasabi.png",
+  "value": 1,
+  "type": "Food",
+  "script": "Food",
+  "_FoodValue": 0
+}

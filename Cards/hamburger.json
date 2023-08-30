@@ -1,0 +1,10 @@
+{
+  "id": "stella_farming_hamburger",
+  "nameTerm": "stella_farming_hamburger_name",
+  "descriptionTerm": "stella_farming_hamburger_description",
+  "icon": "hamburger.png",
+  "value": 7,
+  "type": "Food",
+  "script": "Food",
+  "_FoodValue": 12
+}

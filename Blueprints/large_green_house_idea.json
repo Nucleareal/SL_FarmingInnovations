@@ -1,0 +1,14 @@
+{
+  "id": "stella_farming_blueprint_large_green_house",
+  "nameTerm": "stella_farming_large_green_house_name",
+  "group": "Building",
+  "subprints": [
+    {
+      "RequiredCards": "iron_bar, iron_bar, iron_bar, iron_bar, iron_bar, iron_bar, glass, glass, glass, glass, glass, glass, soil, soil, soil, villager, villager, villager",
+      "ResultCard": "stella_farming_large_green_house",
+	  "CardsToRemove": "iron_bar, iron_bar, iron_bar, iron_bar, iron_bar, iron_bar, glass, glass, glass, glass, glass, glass, soil, soil, soil",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_large_green_house_status"
+    }
+  ]
+}

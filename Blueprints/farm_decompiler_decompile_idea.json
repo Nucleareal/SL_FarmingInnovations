@@ -1,0 +1,38 @@
+{
+  "id": "stella_farming_blueprint_farm_decompiler_decompile",
+  "nameTerm": "stella_farming_farm_decompiler_decompile_name",
+  "group": "Building",
+  "hideFromCardopedia": true,
+  "hideFromIdeasTab": true,
+  "_CanSpoil": false,
+  "subprints": [
+    {
+      "RequiredCards": "stella_farming_farm_decompiler, farm",
+	  "CardsToRemove": "farm",
+	  "ExtraResultCards": "soil",
+      "Time": 20,
+      "StatusTerm": "stella_farming_idea_farm_decompiler_decompile_status"
+    },
+	{
+      "RequiredCards": "stella_farming_farm_decompiler, garden",
+	  "CardsToRemove": "garden",
+	  "ExtraResultCards": "soil",
+      "Time": 20,
+      "StatusTerm": "stella_farming_idea_farm_decompiler_decompile_status"
+    },
+	{
+      "RequiredCards": "stella_farming_farm_decompiler, greenhouse",
+	  "CardsToRemove": "greenhouse",
+	  "ExtraResultCards": "soil",
+      "Time": 20,
+      "StatusTerm": "stella_farming_idea_farm_decompiler_decompile_status"
+    },
+	{
+      "RequiredCards": "stella_farming_farm_decompiler, large_green_house",
+	  "CardsToRemove": "large_green_house",
+	  "ExtraResultCards": "soil, soil, soil",
+      "Time": 20,
+      "StatusTerm": "stella_farming_idea_farm_decompiler_decompile_status"
+    }
+  ]
+}

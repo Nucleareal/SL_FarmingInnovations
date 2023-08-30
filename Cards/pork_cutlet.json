@@ -1,0 +1,10 @@
+{
+  "id": "stella_farming_pork_cutlet",
+  "nameTerm": "stella_farming_pork_cutlet_name",
+  "descriptionTerm": "stella_farming_pork_cutlet_description",
+  "icon": "pork_cutlet.png",
+  "value": 6,
+  "type": "Food",
+  "script": "Food",
+  "_FoodValue": 10
+}

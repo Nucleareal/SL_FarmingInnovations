@@ -1,0 +1,13 @@
+{
+  "id": "stella_farming_blueprint_salad",
+  "nameTerm": "stella_farming_salad_name",
+  "group": "Cooking",
+  "subprints": [
+    {
+      "RequiredCards": "stella_farming_lettuce, tomato, onion, egg, cheese",
+      "ResultCard": "stella_farming_salad",
+      "Time": 15,
+      "StatusTerm": "stella_farming_idea_salad_status"
+    }
+  ]
+}

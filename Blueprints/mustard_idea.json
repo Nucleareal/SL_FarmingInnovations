@@ -1,0 +1,13 @@
+{
+  "id": "stella_farming_blueprint_mustard",
+  "nameTerm": "stella_farming_mustard_name",
+  "group": "Cooking",
+  "subprints": [
+    {
+      "RequiredCards": "stella_farming_raw_mustard, villager",
+      "ResultCard": "stella_farming_mustard",
+      "Time": 5,
+      "StatusTerm": "stella_farming_idea_mustard_status"
+    }
+  ]
+}

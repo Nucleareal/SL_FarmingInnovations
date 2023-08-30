@@ -1,0 +1,28 @@
+{
+  "id": "stella_farming_booster",
+  "nameTerm": "stella_farming_booster_name",
+  "minQuestCount": 3,
+  "_MinAchievementCount": 3,
+  "_IsIntroPack": true,
+  "cost": 50,
+  "icon": "booster.png",
+  "location": "Mainland",
+  "cardBags": [
+    {
+      "CardBagType": "Chances",
+      "Cards": 1,
+      "SetCardBag": "BasicResources",
+      "Chances": [
+        {
+          "Id": "stella_farming_rice",
+          "Chance": 3,
+          "HasMaxCount": false,
+          "HasPrerequisiteCard": false,
+          "IsEnemy": false
+        }
+      ]
+    }
+  ],
+  "_BoosterAdditions": [
+  ]
+}

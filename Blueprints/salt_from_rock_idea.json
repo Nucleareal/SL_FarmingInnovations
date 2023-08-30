@@ -1,0 +1,16 @@
+{
+  "id": "stella_farming_blueprint_salt_from_rock",
+  "nameTerm": "stella_farming_salt_name",
+  "group": "Building",
+  "hideFromCardopedia": true,
+  "hideFromIdeasTab": true,
+  "_CanSpoil": false,
+  "subprints": [
+	{
+      "RequiredCards": "stella_farming_rock_salt, villager",
+	  "ExtraResultCards": "stella_farming_salt, stella_farming_salt, stella_farming_salt",
+      "Time": 5,
+      "StatusTerm": "stella_farming_idea_rock_salt_smashing_status"
+    }
+  ]
+}

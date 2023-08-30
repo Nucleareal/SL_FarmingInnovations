@@ -1,0 +1,10 @@
+{
+  "id": "stella_farming_cold_tofu",
+  "nameTerm": "stella_farming_cold_tofu_name",
+  "descriptionTerm": "stella_farming_cold_tofu_description",
+  "icon": "cold_tofu.png",
+  "value": 1,
+  "type": "Food",
+  "script": "Food",
+  "_FoodValue": 4
+}

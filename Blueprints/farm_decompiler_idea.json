@@ -1,0 +1,13 @@
+{
+  "id": "stella_farming_blueprint_farm_decompiler",
+  "nameTerm": "stella_farming_farm_decompiler_name",
+  "group": "Building",
+  "subprints": [
+    {
+      "RequiredCards": "wood, wood, poop, poop",
+      "ResultCard": "stella_farming_farm_decompiler",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_farm_decompiler_status"
+    }
+  ]
+}

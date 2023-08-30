@@ -1,0 +1,10 @@
+{
+  "id": "stella_farming_mustard",
+  "nameTerm": "stella_farming_mustard_name",
+  "descriptionTerm": "stella_farming_mustard_description",
+  "icon": "mustard.png",
+  "value": 2,
+  "type": "Food",
+  "script": "Food",
+  "_FoodValue": 0
+}

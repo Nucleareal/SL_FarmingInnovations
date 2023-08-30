@@ -1,0 +1,16 @@
+{
+  "id": "stella_farming_blueprint_magic_farm_glowth",
+  "nameTerm": "stella_farming_magic_farm_glowth_name",
+  "group": "Building",
+  "hideFromCardopedia": true,
+  "hideFromIdeasTab": true,
+  "_CanSpoil": false,
+  "subprints": [
+    {
+      "RequiredCards": "stella_farming_magic_farm, magic_dust",
+	  "ExtraResultCards": "magic_dust, magic_dust",
+      "Time": 300,
+      "StatusTerm": "stella_farming_idea_magic_farm_glowth_status"
+    }
+  ]
+}

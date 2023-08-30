@@ -1,0 +1,66 @@
+{
+  "id": "stella_farming_blueprint_flatten_farm_growth",
+  "nameTerm": "stella_farming_flatten_farm_growth_name",
+  "group": "Building",
+  "hideFromCardopedia": true,
+  "hideFromIdeasTab": true,
+  "_CanSpoil": false,
+  "subprints": [
+    {
+      "RequiredCards": "stella_farming_flatten_farm, berry",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "berry, berry, berry",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_flatten_farm_growth_status"
+    },
+	{
+      "RequiredCards": "stella_farming_flatten_farm, apple",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "apple, apple, apple",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_flatten_farm_growth_status"
+    },
+	{
+      "RequiredCards": "stella_farming_flatten_farm, banana",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "banana, banana, banana",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_flatten_farm_growth_status"
+    },
+	{
+      "RequiredCards": "stella_farming_flatten_farm, cotton",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "cotton, cotton, cotton",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_flatten_farm_growth_status"
+    },
+	{
+      "RequiredCards": "stella_farming_flatten_farm, sugar",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "sugar, sugar, sugar",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_flatten_farm_growth_status"
+    },
+	{
+      "RequiredCards": "stella_farming_flatten_farm, grape",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "grape, grape, grape",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_flatten_farm_growth_status"
+    },
+	{
+      "RequiredCards": "stella_farming_flatten_farm, olive",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "olive, olive, olive",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_flatten_farm_growth_status"
+    },
+	{
+      "RequiredCards": "stella_farming_flatten_farm, tomato",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "tomato, tomato, tomato",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_flatten_farm_growth_status"
+    }
+  ]
+}

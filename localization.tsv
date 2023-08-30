@@ -1,0 +1,97 @@
+Term	Notes	English	Japanese
+stella_farming_rice_name		Rice	米
+stella_farming_rice_description		A delicious rice.	食料や日本酒の原料になる。
+stella_farming_barley_name		Barley	大麦
+stella_farming_barley_description		Barley	焼酎の原料になる。
+stella_farming_lettuce_name		Lettuce	レタス
+stella_farming_lettuce_description		A delicious lettuce.	作画が良いかどうかの指標にはならない。
+stella_farming_pork_name		Pork	豚肉
+stella_farming_pork_description		A delicious pork.	牛肉に飽きたら食べるといい。
+stella_farming_salt_name		Salt	塩
+stella_farming_salt_description		Salt.	調味料なので単体で食べられない。山盛りにしても体に悪いだけ。
+stella_farming_wasabi_name		Wasabi	わさび
+stella_farming_wasabi_description		wasabi.	薬味としてどうぞ。
+stella_farming_mustard_name		Mustard	からし
+stella_farming_mustard_description		Japanese Mustard	薬味としてどうぞ。
+stella_farming_raw_wasabi_name		Raw wasabi	生わさび
+stella_farming_raw_wasabi_description		A delicious wasabi.	そのまま食べてもおいしい。
+stella_farming_raw_mustard_name		Raw mustard	生からし
+stella_farming_raw_mustard_description		A delicious mustard	加工してどうぞ。
+stella_farming_soy_name		Soy	大豆
+stella_farming_soy_description		soy.	和食の5割は大豆からできているらしい。
+stella_farming_rock_salt_name		Rock salt	岩塩
+stella_farming_rock_salt_description		rock salt.	鉱山からとれたてほやほや。分解すると塩になる。
+stella_farming_ketchup_name		Ketchup	ケチャップ
+stella_farming_ketchup_description		A delicious ketchup	電気鼠を飼いならすのにどうぞ。
+stella_farming_mayonnaise_name		Mayonnaise	マヨネーズ
+stella_farming_mayonnaise_description		A delicious mayonnaise	そのまま吸ってもいい。
+stella_farming_soy_sauce_name		Soy Sauce	醤油
+stella_farming_soy_sauce_description		A delicious soy sauce	じっくり熟成させて完成させたもの。
+stella_farming_raw_egg_on_rice_name		Raw egg on rice	卵かけご飯
+stella_farming_raw_egg_on_rice_description		Delicious.	日本独自の衛生管理ができているから食べられる。
+stella_farming_tofu_name		Tofu	豆腐
+stella_farming_tofu_description		A tofu	どちらかというと絹豆腐。
+stella_farming_salad_name		Salad	サラダ
+stella_farming_salad_description		A delicious salad.	たまには野菜を食べないと栄養が不足するが、Stacklandsではそんなことはない。
+stella_farming_hamburger_name		Hamburger	ハンバーガー
+stella_farming_hamburger_description		A delicious hamburger	がっつり食べたいときにどうぞ。
+stella_farming_pork_cutlet_name		pork cutlet	とんかつ
+stella_farming_pork_cutlet_description		A delicious pork cutlet	からしを食べる理由付けともされている。
+stella_farming_string_cheese_name		String Cheese	裂けるチーズ
+stella_farming_string_cheese_description		A delicious string cheese	普通のチーズよりおいしい気がする。
+stella_farming_roasted_meat_with_pepper_name		Roasted meat with pepper	すたチキレッド
+stella_farming_roasted_meat_with_pepper_description		A roasted meat with chili pepper.	スタックイレブンで販売予定の商品。
+stella_farming_cold_tofu_name		Cold tofu	冷奴
+stella_farming_cold_tofu_description		A delicious string cheese	醤油をかけただけだが、十分おいしい。
+stella_farming_katsudon_name		Pork cutlet on rice	カツ丼
+stella_farming_katsudon_description		A delicious string cheese	冷えたとんかつを卵でとじて食べられるようにしたものらしい。
+stella_farming_chef_name		Chef	シェフ
+stella_farming_chef_description		A chef	シェフ。
+stella_farming_pig_name		Pig	豚
+stella_farming_pig_description		A pig	兎以上のうんこ製造機。屠殺しても豚肉はとれない。
+stella_farming_large_green_house_name		Large Greenhouse	大規模グリーンハウス
+stella_farming_large_green_house_description		Large Scale Green House. 3x results.	育成速度は同じだが、3倍の収穫が得られる。
+stella_farming_magic_farm_name		Magic Farm	魔法の農場
+stella_farming_magic_farm_description		Farm to Grow Magic Dust.	マジックダストを育てるための施設。
+stella_farming_farm_decompiler_name		Farm Decompiler	農園分解施設
+stella_farming_farm_decompiler_description		A Garden, a Farm, a Greenhouse decompile to a Soil.	農園や農場、グリーンハウスを分解して土壌に戻す。
+stella_farming_wasabi_farm_name		Wasabi farm	わさび農場
+stella_farming_wasabi_farm_description		A farm to grow raw wasabi.	わさびを育てるための農場。
+stella_farming_flatten_farm_name		Flatten farm	平坦化農場
+stella_farming_flatten_farm_description		A farm drops non-location cards when hervest.	最初から食材の状態で収穫できる農場。
+stella_farming_salt_mine_name		Salt mine	岩塩坑
+stella_farming_salt_mine_description		A mine of rock salt.	岩塩が取れる。今のところ素の村人ではないと採掘できない。
+stella_farming_idea_large_green_house_status		Building..	建造中...
+stella_farming_idea_large_green_house_glowth_status		Growing...	栽培中..
+stella_farming_idea_farm_decompiler_status		Building...	建造中...
+stella_farming_idea_farm_decompiler_decompile_status		Growth...	育成中...
+stella_farming_idea_magic_farm_status		Building...	建造中...
+stella_farming_idea_magic_farm_glowth_status		Growth...	育成中...
+stella_farming_idea_wasabi_farm_status		Building...	建造中...
+stella_farming_idea_wasabi_farm_growth_status		Growth...	育成中...
+stella_farming_idea_flatten_farm_status		Building...	建造中...
+stella_farming_idea_flatten_farm_growth_status		Growth...	育成中...
+stella_farming_idea_salt_mine_status		Building...	建造中...
+stella_farming_idea_salt_mine_mining_status		Growth...	採取中...
+stella_farming_idea_hamburger_status		Cooking...	料理中...
+stella_farming_idea_ketchup_status		Cooking...	料理中...
+stella_farming_idea_mayonnaise_status		Cooking...	料理中...
+stella_farming_idea_salt_status		cooking...	料理中...
+stella_farming_idea_pork_cutlet_status		cooking...	料理中...
+stella_farming_idea_soy_sauce_status		cooking...	料理中...
+stella_farming_idea_raw_egg_on_rice_status		cooking...	料理中...
+stella_farming_idea_tofu_status		cooking...	料理中...
+stella_farming_idea_salad_status		cooking...	料理中...
+stella_farming_idea_string_cheese_status		cooking...	料理中...
+stella_farming_idea_roasted_meat_with_pepper_status		cooking...	料理中...
+stella_farming_idea_cold_tofu_status		cooking...	料理中...
+stella_farming_idea_katsudon_status		cooking...	料理中...
+stella_farming_idea_rock_salt_smashing_status		smashing...	粉砕中...
+stella_farming_booster_name		stella_farming	農業革命
+stella_farming_booster		c	d
+stella_farming_large_green_house_glowth_name		Error	エラー
+stella_farming_magic_farm_glowth_name		Error	エラー
+stella_farming_farm_decompiler_decompile_name		Error	エラー
+stella_farming_wasabi_farm_growth_name		Error	エラー
+stella_farming_flatten_farm_growth_name		Error	エラー
+stella_farming_salt_mine_mining_name		Error	エラー

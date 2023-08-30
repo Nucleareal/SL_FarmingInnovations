@@ -1,0 +1,10 @@
+{
+  "id": "stella_farming_magic_farm",
+  "nameTerm": "stella_farming_magic_farm_name",
+  "descriptionTerm": "stella_farming_magic_farm_description",
+  "icon": "magic_farm.png",
+  "value": 1,
+  "type": "Structures",
+  "_IsBuilding": true,
+  "script": "Greenhouse"
+}

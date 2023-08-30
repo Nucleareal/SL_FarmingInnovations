@@ -1,0 +1,17 @@
+{
+  "id": "stella_farming_blueprint_salt_mine_mining",
+  "nameTerm": "stella_farming_salt_mine_mining_name",
+  "group": "Building",
+  "hideFromCardopedia": true,
+  "hideFromIdeasTab": true,
+  "_CanSpoil": false,
+  "subprints": [
+    {
+      "RequiredCards": "stella_farming_salt_mine, villager",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "stella_farming_rock_salt",
+      "Time": 30,
+      "StatusTerm": "stella_farming_idea_salt_mine_mining_status"
+    }
+  ]
+}

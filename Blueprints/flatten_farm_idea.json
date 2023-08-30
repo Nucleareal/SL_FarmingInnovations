@@ -1,0 +1,14 @@
+{
+  "id": "stella_farming_blueprint_flatten_farm",
+  "nameTerm": "stella_farming_flatten_farm_name",
+  "group": "Building",
+  "subprints": [
+    {
+      "RequiredCards": "apple, iron_bar, iron_bar, glass, magic_dust, soil, villager",
+      "ResultCard": "stella_farming_flatten_farm",
+	  "CardsToRemove": "apple, iron_bar, iron_bar, glass, magic_dust, soil",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_flatten_farm_status"
+    }
+  ]
+}
