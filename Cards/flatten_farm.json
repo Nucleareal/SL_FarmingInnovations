@@ -3,7 +3,7 @@
   "nameTerm": "stella_farming_flatten_farm_name",
   "descriptionTerm": "stella_farming_flatten_farm_description",
   "icon": "flatten_farm.png",
-  "value": 1,
+  "value": 7,
   "type": "Structures",
   "_IsBuilding": true,
   "script": "Stella_FarmingNS.LargeGreenHouse"

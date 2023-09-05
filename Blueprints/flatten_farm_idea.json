@@ -4,9 +4,9 @@
   "group": "Building",
   "subprints": [
     {
-      "RequiredCards": "apple, iron_bar, iron_bar, glass, magic_dust, soil, villager",
+      "RequiredCards": "apple, greenhouse, gold_bar, iron_bar, glass, magic_dust, soil, any_villager",
       "ResultCard": "stella_farming_flatten_farm",
-	  "CardsToRemove": "apple, iron_bar, iron_bar, glass, magic_dust, soil",
+	  "CardsToRemove": "apple, greenhouse, gold_bar, iron_bar, glass, magic_dust, soil",
       "Time": 60,
       "StatusTerm": "stella_farming_idea_flatten_farm_status"
     }

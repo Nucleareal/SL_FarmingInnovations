@@ -17,5 +17,10 @@ namespace Stella_FarmingNS
 
             return base.CanHaveCard(otherCard);
         }
+
+        public override void UpdateCard()
+        {
+            base.UpdateCard();
+        }
     }
 }

@@ -4,7 +4,7 @@
   "group": "Building",
   "subprints": [
     {
-      "RequiredCards": "iron_bar, iron_bar, iron_bar, iron_bar, iron_bar, iron_bar, glass, glass, glass, glass, glass, glass, soil, soil, soil, villager, villager, villager",
+      "RequiredCards": "iron_bar, iron_bar, iron_bar, iron_bar, iron_bar, iron_bar, glass, glass, glass, glass, glass, glass, soil, soil, soil, any_villager, any_villager, any_villager",
       "ResultCard": "stella_farming_large_green_house",
 	  "CardsToRemove": "iron_bar, iron_bar, iron_bar, iron_bar, iron_bar, iron_bar, glass, glass, glass, glass, glass, glass, soil, soil, soil",
       "Time": 60,

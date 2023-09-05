@@ -1,0 +1,45 @@
+{
+  "id": "stella_farming_blueprint_large_green_house_stellafoods_growth",
+  "nameTerm": "stella_farming_large_green_house_growth_name",
+  "group": "Building",
+  "hideFromCardopedia": true,
+  "hideFromIdeasTab": true,
+  "_CanSpoil": false,
+  "subprints": [
+	{
+      "RequiredCards": "stella_farming_large_green_house, stella_foods_rice",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "stella_foods_rice, stella_foods_rice, stella_foods_rice",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_large_green_house_glowth_status"
+    },
+	{
+      "RequiredCards": "stella_farming_large_green_house, stella_foods_barley",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "stella_foods_barley, stella_foods_barley, stella_foods_barley",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_large_green_house_glowth_status"
+    },
+	{
+	  "RequiredCards": "stella_farming_large_green_house, stella_foods_lettuce",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "stella_foods_lettuce, stella_foods_lettuce, stella_foods_lettuce",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_large_green_house_glowth_status"
+	},
+	{
+	  "RequiredCards": "stella_farming_large_green_house, stella_foods_raw_mustard",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "stella_foods_raw_mustard, stella_foods_raw_mustard, stella_foods_raw_mustard",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_large_green_house_glowth_status"
+	},
+	{
+	  "RequiredCards": "stella_farming_large_green_house, stella_foods_soy",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "stella_foods_soy, stella_foods_soy, stella_foods_soy",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_large_green_house_glowth_status"
+	}
+  ]
+}
