@@ -40,6 +40,13 @@
 	  "ExtraResultCards": "stella_foods_soy, stella_foods_soy, stella_foods_soy",
       "Time": 60,
       "StatusTerm": "stella_farming_idea_large_green_house_glowth_status"
+	},
+	{
+	  "RequiredCards": "stella_farming_large_green_house, stella_foods_cucumber",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "stella_foods_cucumber, stella_foods_cucumber, stella_foods_cucumber",
+      "Time": 60,
+      "StatusTerm": "stella_farming_idea_large_green_house_glowth_status"
 	}
   ]
 }
